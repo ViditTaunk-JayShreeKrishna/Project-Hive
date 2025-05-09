@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<h2 class="text-center mb-4">🎯 Your Project Suggestions</h2>
+
+<div class="row">
+    {% for project in projects %}
+    <div class="col-md-6 mb-4">
+        <div class="card h-100 shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">{{ project }}</h5>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<div class="text-center">
+    <a href="{% url 'skills' %}" class="btn btn-outline-dark mt-4">Try Again</a>
+</div>
+
+{% endblock %}

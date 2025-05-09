@@ -1,0 +1,156 @@
+skills,interests,difficulty,project_title
+"Java, PostgreSQL, Generative AI, Python",Cloud Computing,Medium,Voice Controlled IoT Home Automation
+"Computer Vision, C++, PostgreSQL",AR/VR Development,Medium,Real-Time Earthquake Detection IoT Network
+"Network Security, Java, ReactJS",Internet of Things,Hard,Secure Voting System using Blockchain
+"TensorFlow, Java, C, NLP",Mobile App Development,Medium,Intelligent Traffic Management System using IoT
+"Docker, Machine Learning, ReactJS","Blockchain Technology, Cyber Security",Medium,Build a RESTful API with Django
+"PyTorch, Web3, LLMs",Startups and Entrepreneurship,Hard,Fake Profile Detection on Social Media
+"AR/VR, C, Generative AI",AR/VR Development,Medium,Gesture Recognition System using Computer Vision
+"Solidity, Flutter, Web3",Cloud Computing,Hard,Smart Waste Management System IoT
+"Data Analysis, Machine Learning, Ethical Hacking, Web3","Startups and Entrepreneurship, Blockchain Technology",Medium,Serverless Backend using AWS Lambda
+"Machine Learning, PostgreSQL, Docker, AWS",Data Science,Hard,Virtual Reality Racing Game
+"Data Visualization, Computer Vision","Cloud Computing, Startups and Entrepreneurship",Easy,Augmented Reality Try-On Glasses App
+"Network Security, Machine Learning, AR/VR",Artificial Intelligence,Easy,Predictive Stock Market App with ML
+"Game Development, Web3, PostgreSQL, Cryptography",Gaming and Game Development,Hard,Serverless Backend using AWS Lambda
+"Arduino, Network Security, NodeJS","Web Development, Blockchain Technology",Easy,Face Mask Detection System using Computer Vision
+"MongoDB, C++, Cryptography, Docker","Cyber Security, Mobile App Development",Easy,Fitness Tracker Mobile App
+"NLP, Ethical Hacking, Kubernetes, PyTorch","Mobile App Development, AR/VR Development",Medium,AI-based Personal Health Recommendation App
+"Flutter, Firebase, GCP, Raspberry Pi","Mobile App Development, Gaming and Game Development",Hard,Energy Consumption Prediction using ML
+"Blockchain, Solidity",Cloud Computing,Hard,Fake Profile Detection on Social Media
+"Django, LLMs, NodeJS","Artificial Intelligence, Web Development",Medium,AI-based Personal Health Recommendation App
+"Big Data, Docker, MySQL, Computer Vision","AR/VR Development, Blockchain Technology",Medium,Hyperledger Based Supply Chain Management
+"NodeJS, Python, MySQL",Cloud Computing,Easy,Automated Cloud Resource Optimization AI
+"Docker, Blockchain, Ethical Hacking","Artificial Intelligence, Gaming and Game Development",Easy,Intelligent Traffic Management System using IoT
+"Embedded Systems, Arduino, Docker, PostgreSQL",Automation,Hard,Smart Waste Management System IoT
+"Arduino, Big Data, Kubernetes","Blockchain Technology, Data Science",Hard,Secure File Storage System with Cryptography
+"Kubernetes, Computer Vision","AR/VR Development, Mobile App Development",Medium,Food Delivery App Clone with Flutter & Firebase
+"MongoDB, NLP, LLMs, Kubernetes",Cyber Security,Easy,Data Visualization Dashboard for E-Commerce
+"Computer Vision, NodeJS, Flutter",Internet of Things,Medium,Fitness Tracker Mobile App
+"PyTorch, Ethical Hacking, Kubernetes","Artificial Intelligence, Cyber Security",Easy,Voice Controlled IoT Home Automation
+"Machine Learning, Data Analysis","Internet of Things, Blockchain Technology",Easy,Air Quality Monitoring IoT System
+"Kubernetes, Solidity, Big Data",Data Science,Hard,Fraud Transaction Detection System
+"PostgreSQL, Deep Learning, LLMs, Blockchain",Data Science,Medium,News Aggregator App with Web Scraping
+"Generative AI, AR/VR, NLP",Gaming and Game Development,Easy,Gamified Habit Tracker Mobile App
+"PyTorch, Python, Java",Blockchain Technology,Easy,Blockchain-Powered Identity Management System
+"C++, Azure, ReactJS","AR/VR Development, Cyber Security",Easy,Energy Consumption Prediction using ML
+"AWS, MongoDB, Java, AR/VR",AR/VR Development,Easy,Crowdsourced Disaster Response System
+"Data Analysis, Ethical Hacking",Cyber Security,Easy,Personal Finance Manager App
+"Web3, Firebase",Artificial Intelligence,Easy,Language Learning App using Gamification
+"PostgreSQL, ReactJS","Mobile App Development, AR/VR Development",Easy,Data Visualization Dashboard for E-Commerce
+"Flutter, Network Security, Ethical Hacking, Raspberry Pi",Startups and Entrepreneurship,Medium,Online Multiplayer Battle Royale Game
+"Cryptography, LLMs, Azure, Raspberry Pi","Cloud Computing, Web Development",Medium,Predictive Stock Market App with ML
+"Blockchain, Generative AI, Data Visualization, Web3","Startups and Entrepreneurship, Cyber Security",Medium,Automated Cloud Resource Optimization AI
+"MySQL, AWS, ReactJS, Big Data","Artificial Intelligence, AR/VR Development",Medium,IoT Smart Home Automation System
+"Big Data, PyTorch, AWS, C++",Blockchain Technology,Medium,Gamified Habit Tracker Mobile App
+"Big Data, Data Analysis, PostgreSQL","Startups and Entrepreneurship, Blockchain Technology",Medium,Energy Consumption Prediction using ML
+"Django, Network Security, Big Data, C","Startups and Entrepreneurship, Artificial Intelligence",Easy,AI Chatbot for Healthcare Assistance
+"Arduino, NLP, Deep Learning, Ethical Hacking",Automation,Medium,Full Stack E-Commerce Website
+"Big Data, MongoDB, IoT, Data Visualization",AR/VR Development,Medium,Music Recommendation System with Deep Learning
+"Computer Vision, Azure, Deep Learning, Java","Gaming and Game Development, Artificial Intelligence",Easy,Crowdsourced Disaster Response System
+"MySQL, Big Data",Web Development,Hard,Generative AI Content Writer
+"Network Security, Django, Generative AI",Automation,Hard,Data Visualization Dashboard for E-Commerce
+"Ethical Hacking, Firebase, Data Visualization, Flutter","Data Science, Internet of Things",Easy,Mental Health Support Chatbot using AI
+"PyTorch, Web3",Cyber Security,Easy,Augmented Reality Try-On Glasses App
+"Django, Embedded Systems, PostgreSQL",Internet of Things,Medium,Secure File Storage System with Cryptography
+"ReactJS, Flutter, Arduino, Web3","Blockchain Technology, AR/VR Development",Medium,Decentralized Blogging Platform with Web3
+"Java, NLP, Generative AI, ReactJS","Cloud Computing, Automation",Medium,Build a RESTful API with Django
+"PyTorch, Cryptography, Kubernetes, LLMs",Cyber Security,Hard,Voice Controlled IoT Home Automation
+"Ethical Hacking, Blockchain, Python","Cloud Computing, Web Development",Medium,Decentralized Blogging Platform with Web3
+"Django, ReactJS, Cryptography, Deep Learning","Internet of Things, Artificial Intelligence",Hard,Crime Rate Prediction App with ML
+"C, Python, Django","Blockchain Technology, Cloud Computing",Hard,Predictive Stock Market App with ML
+"Python, TensorFlow","Internet of Things, Blockchain Technology",Easy,Personal Finance Manager App
+"Flutter, Data Analysis, Network Security, C++",Internet of Things,Hard,Virtual Reality Racing Game
+"Ethical Hacking, Java, LLMs",Data Science,Hard,Smart Waste Management System IoT
+"AWS, Firebase, AR/VR, MySQL",Blockchain Technology,Medium,Predictive Stock Market App with ML
+"GCP, Machine Learning, PyTorch, MySQL",Startups and Entrepreneurship,Medium,Fitness Tracker Mobile App
+"IoT, Django, Docker","Gaming and Game Development, Blockchain Technology",Easy,Real-Time Chat Translation App using NLP
+"ReactJS, Embedded Systems, AWS","Artificial Intelligence, Cyber Security",Medium,Predictive Stock Market App with ML
+"Raspberry Pi, Cryptography","AR/VR Development, Automation",Medium,Online Multiplayer Battle Royale Game
+"Computer Vision, C","Data Science, Startups and Entrepreneurship",Medium,Fraud Transaction Detection System
+"IoT, GCP, Data Analysis, Kubernetes",Internet of Things,Easy,Online Multiplayer Battle Royale Game
+"Blockchain, MongoDB, Solidity, Raspberry Pi","Artificial Intelligence, Cyber Security",Easy,Augmented Reality Try-On Glasses App
+"Data Visualization, Flutter, Firebase",Data Science,Easy,Intelligent Traffic Management System using IoT
+"Web3, PyTorch, Python, NodeJS","Gaming and Game Development, Blockchain Technology",Hard,Cross-Platform Chat App with Flutter
+"Django, Network Security","Artificial Intelligence, Data Science",Medium,Food Delivery App Clone with Flutter & Firebase
+"Data Analysis, GCP, Game Development",Blockchain Technology,Medium,Smart Agriculture Monitoring System IoT
+"Firebase, IoT","Blockchain Technology, Startups and Entrepreneurship",Medium,News Aggregator App with Web Scraping
+"Solidity, Arduino",Artificial Intelligence,Medium,Voice Controlled IoT Home Automation
+"Flutter, C++","Web Development, Startups and Entrepreneurship",Hard,Energy Consumption Prediction using ML
+"Flutter, Ethical Hacking, C, NodeJS",Automation,Hard,Virtual Reality Racing Game
+"Web3, Blockchain, Cryptography, ReactJS",Cloud Computing,Medium,Mental Health Support Chatbot using AI
+"Docker, Java","Internet of Things, Artificial Intelligence",Medium,Smart Agriculture Monitoring System IoT
+"Django, MySQL","Blockchain Technology, Internet of Things",Easy,Energy Consumption Prediction using ML
+"Blockchain, Game Development, Computer Vision, Big Data","Blockchain Technology, AR/VR Development",Hard,Blockchain-Powered Identity Management System
+"Raspberry Pi, C","Data Science, Cyber Security",Medium,Intelligent Traffic Management System using IoT
+"AWS, Cryptography, Big Data",Artificial Intelligence,Hard,Secure Voting System using Blockchain
+"NLP, Arduino","Gaming and Game Development, Data Science",Medium,Data Visualization Dashboard for E-Commerce
+"IoT, Data Analysis, Cryptography","Internet of Things, Blockchain Technology",Easy,Face Mask Detection System using Computer Vision
+"PostgreSQL, Raspberry Pi, Network Security","Gaming and Game Development, Startups and Entrepreneurship",Medium,Data Visualization Dashboard for E-Commerce
+"Python, C","Gaming and Game Development, AR/VR Development",Medium,Serverless Backend using AWS Lambda
+"MySQL, Generative AI, Firebase, Java","Mobile App Development, Data Science",Easy,Mental Health Support Chatbot using AI
+"AWS, MongoDB, Game Development, Arduino","Internet of Things, Blockchain Technology",Medium,Generative AI Content Writer
+"ReactJS, GCP","Gaming and Game Development, Cyber Security",Hard,Secure File Storage System with Cryptography
+"Flutter, NLP",AR/VR Development,Medium,Secure Voting System using Blockchain
+"Deep Learning, AWS",AR/VR Development,Medium,Virtual Classroom App with Attendance System
+"AR/VR, C++, Cryptography","AR/VR Development, Internet of Things",Easy,Decentralized Blogging Platform with Web3
+"Firebase, Blockchain",Web Development,Medium,Full Stack E-Commerce Website
+"PyTorch, Java","Gaming and Game Development, Startups and Entrepreneurship",Medium,Gamified Habit Tracker Mobile App
+"Data Visualization, AWS, IoT",Startups and Entrepreneurship,Easy,Remote Patient Monitoring System IoT
+"Docker, Deep Learning",Automation,Easy,Crime Rate Prediction App with ML
+"NodeJS, Ethical Hacking, Azure",Cloud Computing,Medium,Smart Waste Management System IoT
+"C, Generative AI",Cyber Security,Hard,Secure Voting System using Blockchain
+"Network Security, Computer Vision, IoT",Blockchain Technology,Hard,Blockchain-Powered Identity Management System
+"Kubernetes, TensorFlow","Artificial Intelligence, Blockchain Technology",Medium,Food Delivery App Clone with Flutter & Firebase
+"Firebase, Data Analysis, LLMs",Artificial Intelligence,Easy,Generative AI Content Writer
+"Django, PostgreSQL, Machine Learning, Arduino",Startups and Entrepreneurship,Medium,Virtual Classroom App with Attendance System
+"Data Visualization, Django, Game Development, Ethical Hacking",Startups and Entrepreneurship,Hard,Music Recommendation System with Deep Learning
+"MongoDB, Java, C++","Gaming and Game Development, Startups and Entrepreneurship",Medium,Air Quality Monitoring IoT System
+"MongoDB, C++, Solidity, Flutter","Web Development, AR/VR Development",Easy,COVID-19 Data Analytics Dashboard
+"TensorFlow, Raspberry Pi, Machine Learning",Web Development,Hard,Hyperledger Based Supply Chain Management
+"Machine Learning, TensorFlow, C++",Automation,Hard,Face Mask Detection System using Computer Vision
+"AR/VR, Web3, Blockchain",Internet of Things,Easy,Data Visualization Dashboard for E-Commerce
+"Embedded Systems, Ethical Hacking",Startups and Entrepreneurship,Easy,News Aggregator App with Web Scraping
+"Django, Azure, Arduino, Machine Learning","Cloud Computing, Cyber Security",Hard,Build a RESTful API with Django
+"MySQL, NodeJS, Computer Vision",AR/VR Development,Medium,Blockchain-based Certificate Issuing System
+"Network Security, IoT",Data Science,Medium,AI Chatbot for Healthcare Assistance
+"Big Data, Blockchain, Django, Machine Learning","AR/VR Development, Data Science",Medium,Augmented Reality Try-On Glasses App
+"TensorFlow, MongoDB, ReactJS",AR/VR Development,Easy,Data Visualization Dashboard for E-Commerce
+"NLP, Generative AI, AR/VR, C++",Blockchain Technology,Medium,Deploy ML Model on AWS with Docker
+"Machine Learning, Flutter, Java, Docker",Data Science,Hard,Data Visualization Dashboard for E-Commerce
+"C++, Java, Cryptography",Blockchain Technology,Hard,Intelligent Traffic Management System using IoT
+"Azure, Solidity, Firebase",Blockchain Technology,Medium,Virtual Reality Racing Game
+"Azure, Django, MongoDB, NLP","AR/VR Development, Cloud Computing",Medium,Automated Cloud Resource Optimization AI
+"TensorFlow, Generative AI, Docker, Solidity",Gaming and Game Development,Easy,Personal Finance Manager App
+"Deep Learning, Data Visualization, IoT","Internet of Things, AR/VR Development",Hard,AI-Powered Coding Interview Preparation Platform
+"Web3, Flutter","Data Science, Automation",Medium,NFT Marketplace Development
+"MySQL, Data Analysis, Machine Learning","Artificial Intelligence, Mobile App Development",Hard,News Aggregator App with Web Scraping
+"MongoDB, Kubernetes, Cryptography","Cloud Computing, Internet of Things",Medium,Face Mask Detection System using Computer Vision
+"IoT, PostgreSQL",Data Science,Medium,Voice Controlled IoT Home Automation
+"TensorFlow, Solidity, ReactJS, LLMs",Artificial Intelligence,Easy,AI-based Personal Health Recommendation App
+"Blockchain, Firebase",Automation,Hard,Secure File Storage System with Cryptography
+"Arduino, Docker, Blockchain",AR/VR Development,Easy,Fitness Tracker Mobile App
+"Kubernetes, Cryptography","Cyber Security, Gaming and Game Development",Easy,Secure File Storage System with Cryptography
+"Network Security, AWS, LLMs, Big Data","Automation, Cyber Security",Easy,AI-based Personal Health Recommendation App
+"Azure, C","Internet of Things, Cyber Security",Hard,Mental Health Support Chatbot using AI
+"NLP, PyTorch, AR/VR, NodeJS",Mobile App Development,Easy,Decentralized Blogging Platform with Web3
+"Django, Computer Vision",AR/VR Development,Hard,Augmented Reality Try-On Glasses App
+"Embedded Systems, AWS","Web Development, Blockchain Technology",Hard,Blockchain-based Certificate Issuing System
+"Generative AI, GCP, Java, Django","Internet of Things, Blockchain Technology",Medium,Data Visualization Dashboard for E-Commerce
+"TensorFlow, Kubernetes",Automation,Medium,Crime Rate Prediction App with ML
+"Deep Learning, TensorFlow","AR/VR Development, Automation",Medium,Hyperledger Based Supply Chain Management
+"Generative AI, C++, Flutter","Blockchain Technology, Startups and Entrepreneurship",Easy,AI Chatbot for Healthcare Assistance
+"GCP, TensorFlow, Django","Mobile App Development, Cloud Computing",Hard,Gamified Habit Tracker Mobile App
+"Machine Learning, Data Analysis, Big Data, GCP","Gaming and Game Development, Automation",Hard,Energy Consumption Prediction using ML
+"Flutter, Data Visualization","Data Science, Automation",Easy,Automated Cloud Resource Optimization AI
+"Blockchain, PostgreSQL, Data Visualization, AWS",Artificial Intelligence,Medium,Language Learning App using Gamification
+"LLMs, Azure, NodeJS",Blockchain Technology,Medium,Mental Health Support Chatbot using AI
+"Cryptography, Django, Python, Machine Learning","Cyber Security, Artificial Intelligence",Medium,Real-Time Chat Translation App using NLP
+"PostgreSQL, Arduino, Firebase",Mobile App Development,Hard,Hyperledger Based Supply Chain Management
+"Python, C","Startups and Entrepreneurship, Web Development",Easy,Smart Waste Management System IoT
+"Firebase, Azure, AR/VR",Internet of Things,Hard,AI-Powered Coding Interview Preparation Platform
+"Cryptography, TensorFlow, Data Analysis, Data Visualization",Data Science,Easy,Language Learning App using Gamification
+"Python, Data Analysis, Django, Machine Learning","Internet of Things, Automation",Easy,Smart Waste Management System IoT
+"Embedded Systems, Kubernetes, MongoDB","Cloud Computing, Web Development",Medium,Food Delivery App Clone with Flutter & Firebase
+"Firebase, AWS, PyTorch, IoT",Internet of Things,Medium,Data Visualization Dashboard for E-Commerce
+"Ethical Hacking, Game Development, AR/VR, NLP",Mobile App Development,Easy,Intelligent Traffic Management System using IoT
+"NLP, C++, ReactJS, MongoDB",Internet of Things,Hard,Remote Patient Monitoring System IoT
