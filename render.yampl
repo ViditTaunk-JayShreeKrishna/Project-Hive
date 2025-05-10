@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: project-hive-backend
+    env: python
+    plan: free
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: gunicorn projecthive.wsgi:application
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false  # you’ll add the actual key via dashboard
