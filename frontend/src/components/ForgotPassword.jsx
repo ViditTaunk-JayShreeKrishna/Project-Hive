@@ -2,6 +2,8 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import StyledCard from '../components/StyledCard';
+import BASE_URL from '../config';
+
 
 function ForgotPassword() {
   const [email, setEmail] = useState('');
@@ -10,7 +12,7 @@ function ForgotPassword() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post('http://127.0.0.1:8000/reset_password/', { email });
+      await axios.post(`${BASE_URL}/reset_password/`, { email });
       setMessage('Password reset link sent. Check your inbox!');
     } catch (err) {
       setMessage('Failed to send reset link.');

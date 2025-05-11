@@ -1,6 +1,7 @@
 // src/pages/Suggestions.jsx
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import BASE_URL from '../config';
 
 function Suggestions() {
   const [projects, setProjects] = useState([]);
@@ -38,7 +39,7 @@ function Suggestions() {
       const savedSkills = JSON.parse(localStorage.getItem('skills') || '[]');
 
       // Request project details from backend
-      const response = await fetch('http://127.0.0.1:8000/api/generate-project-details/', {
+      const response = await fetch(`${BASE_URL}/api/generate-project-details/`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
