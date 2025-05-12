@@ -62,9 +62,9 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 CORS_ALLOW_CREDENTIALS = True
-CORS_ALLOWED_ORIGINS = ["https://project-hive-steel.vercel.app",'http://localhost:3000']
+CORS_ALLOWED_ALL_ORIGINS=True
 CORS_ALLOW_HEADERS = ['*']
-CSRF_TRUSTED_ORIGINS = ['https://project-hive-steel.vercel.app','http://localhost:3000']
+CSRF_TRUSTED_ALL_ORIGINS=True
 LOGGING = {
     'version': 1,
     'handlers': {
