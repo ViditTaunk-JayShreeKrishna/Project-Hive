@@ -10,5 +10,15 @@ services:
       python manage.py migrate --verbosity 2
     startCommand: gunicorn projecthive.wsgi:application
     envVars:
+      - key: DB_NAME
+        value: project_hive_db
+      - key: DB_USER
+        value: project_hive_db_user
+      - key: DB_PASSWORD
+        value: fHDKEdi9Pn4epedyt71mMLxfdLEig17R
+      - key: DB_HOST
+        value: dpg-d0gpj6adbo4c73bk5iog-a
+      - key: DB_PORT
+        value: 5432
       - key: GEMINI_API_KEY
         sync: false
