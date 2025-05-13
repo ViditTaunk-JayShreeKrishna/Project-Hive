@@ -10,6 +10,8 @@ services:
       python manage.py migrate --verbosity 2
     startCommand: gunicorn projecthive.wsgi:application
     envVars:
+      - key: DATABASE_URL
+        value: postgresql://project_hive_db_user:fHDKEdi9Pn4epedyt71mMLxfdLEig17R@dpg-d0gpj6adbo4c73bk5iog-a/project_hive_db
       - key: DB_NAME
         value: project_hive_db
       - key: DB_USER
