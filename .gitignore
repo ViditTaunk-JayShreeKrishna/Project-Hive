@@ -11,6 +11,8 @@ db.sqlite3
 # === Keys ===
 backend/.env 
 
+# === Deployment ===
+render.yaml
 # === Node / React ===
 node_modules/
 frontend/node_modules/
